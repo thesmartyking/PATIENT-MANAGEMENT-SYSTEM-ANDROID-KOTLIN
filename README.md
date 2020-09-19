@@ -4,7 +4,7 @@ Patient Management System using Kotlin Language for Android OS. It is applicatio
 
 [**GO TO WEBSITE !**](https://thesmartyking.github.io/PATIENT-MANAGEMENT-SYSTEM-ANDROID-KOTLIN)
 
-To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From Here !**](https://github.com/thesmartyking/KENIL-DOSHI-PORTFOLIO-APP/raw/master/KD-APP-PUBLIC-1.apk)
+To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From Here !**](https://github.com/thesmartyking/PATIENT-MANAGEMENT-SYSTEM-ANDROID-KOTLIN/raw/master/Patient-Care-PMS-App.apk)
 
 ---
 
