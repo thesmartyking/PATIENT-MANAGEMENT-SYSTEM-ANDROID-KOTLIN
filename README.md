@@ -2,8 +2,6 @@
 ## PATIENT-CARE
 Patient Management System using Kotlin Language for Android OS. It is application that is used to acquire medical information from a medical device to be used in the treatment or diagnosis of a patient. This Application allows Doctors to do functions like Add, Update, Delete &amp; also saves complete information of Doctors via, Login, Register, OTP Requests, Enhanced UI, User Friendly Application, with All Details of Patient and the report of patient can be easily downloaded in PDF Format.
 
-[**GO TO WEBSITE !**](https://thesmartyking.github.io/PATIENT-MANAGEMENT-SYSTEM-ANDROID-KOTLIN)
-
 To Download this Signed Apk for the Android Device > 6.0 :- [**Download App From Here !**](https://github.com/thesmartyking/KENIL-DOSHI-PORTFOLIO-APP/raw/master/KD-APP-PUBLIC-1.apk)
 
 ---
