@@ -1,0 +1,2 @@
+# PATIENT-MANAGEMENT-SYSTEM-ANDROID-KOTLIN
+Patient Management System using Kotlin Language for Android OS. It is application that is used to acquire medical information from a medical device to be used in the treatment or diagnosis of a patient. This Application allows Doctors to do functions like Add, Update, Delete &amp;amp; also saves complete information of Doctors via, Login, Register, OTP Requests, Enhanced UI, User Friendly Application, with All Details of Patient and the report of patient can be easily downloaded in PDF Format.
